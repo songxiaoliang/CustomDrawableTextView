@@ -33,8 +33,8 @@ This is a custom TextView, when you need to display Drawable in the case of Text
     xmlns:app="http://schemas.android.com/apk/res-auto"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:gravity="center"
-   >
+    android:gravity="center">
+    
     <co.song.customdrawabletextview.view.CustomDrawableTextView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
@@ -43,6 +43,7 @@ This is a custom TextView, when you need to display Drawable in the case of Text
         app:imageHeight="50dp"
         app:imageWidth="50dp"
         />
+        
 </LinearLayout>
 
 ## My Blog
