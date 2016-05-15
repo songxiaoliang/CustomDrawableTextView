@@ -1,9 +1,9 @@
 # CustomDrawableTextView
 This is a custom TextView, when you need to display Drawable in the case of TextView, the control can be used to control their own Drawable display size.
 
-#####for example:
+#####Example:
 
-![](https://github.com/songxiaoliang/loadinglayout/blob/master/app/demo/demo.jpg "Gif图加载效果") 
+![](https://github.com/songxiaoliang/CustomDrawableTextView/blob/master/demo/demo.png) 
 
 ## Development Help
 
